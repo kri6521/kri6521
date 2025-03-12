@@ -12,10 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kriti kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kriti kumari" height="30" width="40" /></a>
-  
 <a href="https://huggingface.co/kri6521" target="blank"> 
 <img align="center"src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="kriti kumari" height="30" width="40" /></a>
-
 <a href="https://kaggle.com/kri6521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kri6521" height="30" width="40" /></a>
 </p>
 
