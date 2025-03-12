@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **kritisingh6012005@gmail.com**
 
+- 🤗 Hugging Face: **https://huggingface.co/kri6521**
+
 - ⚡ Fun fact: **I think I am Funny 😅**
 
 <h3 align="left">Connect with me:</h3>
