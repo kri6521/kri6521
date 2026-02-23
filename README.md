@@ -35,6 +35,12 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kri6521&theme=github_dark" />
 </p>
 
+<h2 align="center" style="color:yellow;">Kriti Kumari</h2>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kri6521&theme=github_dark" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
