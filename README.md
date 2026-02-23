@@ -31,4 +31,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kri6521&layout=compact&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kri6521&" alt="kri6521" /></p>
