@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kri6521&label=Profile%20views&color=0e75b6&style=flat" alt="kri6521" /> </p>
 
-- 📫 How to reach me **kritisingh6012005@gmail.com**
+- 📫 How to reach me **kritikriti555666@gmail.com**
 
 - ⚡ Fun fact: **I think I am Funny 😅**
 
