@@ -15,6 +15,9 @@
 <a href="https://huggingface.co/kri6521" target="blank"> 
 <img align="center"src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="kriti kumari" height="30" width="40" /></a>
 <a href="https://kaggle.com/kriti6521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kri6521" height="30" width="40" /></a>
+<a href="https://medium.com/@kritikriti555666" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="medium" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
